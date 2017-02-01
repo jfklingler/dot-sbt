@@ -1,0 +1,5 @@
+boot/
+**/project/
+**/staging/
+**/target/
+**/credentials.sbt
