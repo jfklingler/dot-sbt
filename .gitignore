@@ -1,5 +1,12 @@
 boot/
+preloaded/
+
 **/project/
 **/staging/
 **/target/
+**/dependency/
+**/templates/
+**/zinc/
 **/credentials.sbt
+
+**/java9-rt-ext-oracle_corporation_11_0_2/
