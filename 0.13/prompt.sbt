@@ -1,3 +1,4 @@
+/*
 shellPrompt := { state =>
   object devnull extends ProcessLogger {
     def info (s: => String) {}
@@ -20,3 +21,4 @@ shellPrompt := { state =>
     LBLUE, projectVersion, RESET,
     LYELLOW,currBranch, RESET)
 }
+*/
